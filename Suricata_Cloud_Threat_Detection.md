@@ -1,4 +1,4 @@
-# 🚀 Executive Summary: Suricata – Cloud Threat Detection on Raspberry Pi 5
+# 🚀 Suricata – Cloud Threat Detection on Raspberry Pi 5
 
 In this lab, I deployed **Suricata**, a powerful open-source network threat detection engine, on my **Raspberry Pi 5 running Kali Linux**. My main goal was to detect suspicious traffic—specifically **ICMP ping packets**—by configuring and running Suricata with a custom rule.
 
